@@ -1,0 +1,17 @@
+{
+  "name": "react2-task",
+  "version": "0.1.0",
+  "description": "Desc",
+  "main": "index.js",
+  "repository": {"url": "https://github.com/lukasz-zbrzeski/react2-task"},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
