@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {"url": "https://github.com/lukasz-zbrzeski/react2-task"},
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
